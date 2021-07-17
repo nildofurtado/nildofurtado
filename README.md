@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nildofurtado/nildofurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
 <h1 align='center'>
   Hi there 👋 I'm Nildo Furtado 👨‍💻
 </h1>
@@ -47,13 +41,15 @@ Here are some ideas to get you started:
    <a href="#" style="cursor: default">
     <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />      </a>
   <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/intel-core%20i7%206700k-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+    <img src="https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />      </a>
+  <a href="#" style="cursor: default">
+    <img src="https://img.shields.io/badge/AMD A8-9600.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
   </a>
   <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </a>
   <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/nvidia-gtx%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+    <img src="https://img.shields.io/badge/RADEON-R7 Series%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
   </a>
  </p>
 
@@ -63,7 +59,8 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a href="#" style="cursor: default">
-    <img src="https://komarev.com/ghpvc/?username=nildofurtado&color=brightgreen"></a>
+    <img src="https://komarev.com/ghpvc/?username=nildofurtado&color=brightgreen">
+  </a>
 </p>
 
 <p align='center'>
