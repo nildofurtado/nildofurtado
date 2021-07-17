@@ -32,13 +32,13 @@ Here are some ideas to get you started:
   <a href="in/nildo-ferreira-furtado/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/joaosouz4dev">
+  <a href="https://www.instagram.com/nildopd2">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=joaosouz4dev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nildofurtado&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
