@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 
 <p align='center'>
-  <a href="in/nildo-ferreira-furtado/">
+  <a href="https://br.linkedin.com/in/nildo-ferreira-furtado">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/nildopd2">
@@ -38,15 +38,23 @@ Here are some ideas to get you started:
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=nildofurtado&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=nildofurtado&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
   🖥️ My current hardware configurations<br/><br/>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" /></a>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/intel-core%20i7%206700k-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" /></a>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" /></a>
-  <a href="#" style="cursor: default"><img src="https://img.shields.io/badge/nvidia-gtx%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+   <a href="#" style="cursor: default">
+    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />      </a>
+  <a href="#" style="cursor: default">
+    <img src="https://img.shields.io/badge/intel-core%20i7%206700k-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  </a>
+  <a href="#" style="cursor: default">
+    <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="#" style="cursor: default">
+    <img src="https://img.shields.io/badge/nvidia-gtx%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  </a>
  </p>
 
 <p align='center'>
