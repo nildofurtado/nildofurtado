@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 </h1>
 
 <p align='center'>
- A web developer from Rio de Janeiro, Brazil.
+ A web developer from Rio de Janeiro / Paraná, Brazil.
 </p>
 
 
