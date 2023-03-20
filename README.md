@@ -46,7 +46,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/AMD A8-9600.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
   </a>
   <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   </a>
   <a href="#" style="cursor: default">
     <img src="https://img.shields.io/badge/RADEON-R7 Series%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -76,4 +76,5 @@ Here are some ideas to get you started:
     <img align="center" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
     <img align="center" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
     <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img aling="center" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </p>
