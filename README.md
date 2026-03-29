@@ -1,81 +1,81 @@
-<!--
-**nildofurtado/nildofurtado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align='center'>
-  Hi there 👋 I'm Nildo Furtado 👨‍💻
+<h1 align="center">
+  👨‍💻 Nildo Furtado
 </h1>
 
-<p align='center'>
- A web developer from Rio de Janeiro / Paraná, Brazil.
+<p align="center">
+  Desenvolvedor Fullstack | Python | APIs | Microserviços | IA
 </p>
 
+<p align="center">
+  Desenvolvo aplicações completas, do backend ao frontend, com foco em performance, escalabilidade e boas práticas.
+</p>
 
+---
 
-<p align='center'>
+### 🚀 Sobre mim
+
+- 💼 Desenvolvedor **Fullstack**, com forte atuação em **backend com Python (FastAPI/Flask)**
+- ⚙️ Experiência com **arquitetura de microserviços e mensageria (Kafka)**
+- 🌐 Desenvolvimento de interfaces com **React / Node.js**
+- 🤖 Atuação com **IA, automação e sistemas conversacionais (LLM)**
+- 🐳 Uso de **Docker, MongoDB e integrações entre serviços**
+- 🔐 Segurança com **JWT, autenticação e boas práticas (LGPD)**
+
+---
+
+### 🧰 Stack Principal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,react,docker,mongodb,postgres,git,linux,kafka" />
+</p>
+
+---
+
+### 📈 Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nildofurtado&theme=dark" height="150">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nildofurtado&theme=github-dark" />
+</p>
+
+---
+
+### 📌 Projetos e Interesses
+
+- 🔹 Aplicações Fullstack (API + Frontend)
+- 🔹 APIs escaláveis com FastAPI
+- 🔹 Sistemas distribuídos com Kafka
+- 🔹 Integração com WhatsApp / Omnichannel
+- 🔹 IA aplicada a atendimento automatizado
+
+---
+
+### 📫 Contato
+
+<p align="center">
+  <a href="mailto:nildopd@gmail.com">
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://br.linkedin.com/in/nildo-ferreira-furtado">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/nildopd2">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
 
-<p align='center'>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=nildofurtado&show_icons=true&count_private=true&theme=dark" width="350"></a>
+---
+
+### 🖥️ Ambiente de Trabalho
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Ubuntu-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAM-32GB-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CPU-AMD%20A8--9600-orange?style=for-the-badge" />
 </p>
 
-<p align='center'>
-  🖥️ My current hardware configurations<br/><br/>
-   <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />      </a>
-  <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/ubuntu-%230078D6.svg?&style=for-the-badge&logo=ubuntu&logoColor=white" />      </a>
-  <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/AMD A8-9600.svg?&style=for-the-badge&logo=AMD&logoColor=white" />
-  </a>
-  <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="#" style="cursor: default">
-    <img src="https://img.shields.io/badge/RADEON-R7 Series%20980-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-  </a>
- </p>
+---
 
-<p align='center'>
-  📱 How to talk to me: <a href='mailto:nildopd@gmail.com'>nildopd@gmail.com</a>
-</p>
-
-<p align='center'>
-  <a href="#" style="cursor: default">
-    <img src="https://komarev.com/ghpvc/?username=nildofurtado&color=brightgreen">
-  </a>
-</p>
-
-<p align='center'>
-  <b> Technology 🚀 </b>
-</p>
-<p align='center'>
-    <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="center" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="center" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-    <img align="center" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
-    <img align="center" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-    <img align="center" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-    <img align="center" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-  <img aling="center" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  <img aling="center" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nildofurtado&color=blue" />
 </p>
